@@ -1,0 +1,10 @@
+<Settings>
+    <Email_Settings>
+        <Email></Email>
+        <Password></Password>
+    </Email_Settings>
+
+    <Patterns_Path></Patterns_Path>
+
+    <Logs_Path></Logs_Path>
+</Settings>
